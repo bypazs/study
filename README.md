@@ -77,6 +77,9 @@ Learn English in 90 Minutes
 Harvard 
 11.https://www.youtube.com/watch?v=a8Fyf3gwvfM
 
+Js
+12.https://www.youtube.com/watch?v=fju9ii8YsGs
+
 # Text Book
 
 1.http://eloquentjavascript.net/
