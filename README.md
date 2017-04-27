@@ -38,6 +38,10 @@ Oracle Database and SQL
 Professional Android Developer
 16.https://www.edx.org/micromasters/galileox-professional-android-developer
 
+17.https://generalassemb.ly/education/front-end-web-development?where=hong-kong
+
+18.http://asiadev.academy/
+
 # Youtube
 
 Mysql
@@ -64,6 +68,12 @@ HTML HTTP
 Java
 8.https://www.youtube.com/watch?v=WPvGqX-TXP0
 
+Interview
+9.https://www.youtube.com/watch?v=gnqzM6FWgTE
+
+Learn English in 90 Minutes
+https://www.youtube.com/watch?v=RiGvfKmpsCI
+
 # Text Book
 
 1.http://eloquentjavascript.net/
@@ -78,9 +88,17 @@ Java
 
 6.https://www.ibm.com/developerworks/java/library/j-chaincode-for-java-developers/index.html
 
+7.http://interactivepython.org/courselib/static/pythonds/index.html
+
+8.http://greenteapress.com/wp/think-java/
+
+9.http://math.hws.edu/javanotes/
+
 
 # History
 
 1.https://www.git-tower.com/blog/history-of-ios
 
-cd:https://www.facebook.com/codestar.work & my research
+# credit
+1.https://www.facebook.com/codestar.work  
+2.my research
