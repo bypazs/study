@@ -100,5 +100,5 @@ https://www.youtube.com/watch?v=RiGvfKmpsCI
 1.https://www.git-tower.com/blog/history-of-ios
 
 # credit
-1.https://www.facebook.com/codestar.work  
-2.my research
+1.https://www.facebook.com/codestar.work (99%)  
+2.my research (1%)
